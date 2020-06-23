@@ -1,0 +1,30 @@
+.wrapper {
+    text-align: center;
+}
+
+.timer {
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+.start {
+    font-weight: bold;
+}
+
+.questions {
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+}
+
+.choice {
+    background-color: purple;
+    color:white;
+}
+
+.hide {
+    display: none;
+}
