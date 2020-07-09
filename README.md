@@ -1,4 +1,4 @@
-Code Quiz
+## Code Quiz
 
 ## User Story
 
